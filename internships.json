@@ -1,0 +1,141 @@
+{
+    "project": "FormFit",
+    "last_updated": "2026-10-30T13:12:37.738788",
+    "total_opportunities": 7,
+    "internships": [
+        {
+            "title": "Quantitative Trader Internship, May-August",
+            "company": "Jane Street",
+            "location": "New York",
+            "remote": false,
+            "skills": [
+                "Strong quantitative thinking",
+                "Verbal and written communication",
+                "Collaborative team work",
+                "Problem solving",
+                "General programming experience (plus)"
+            ],
+            "eligibility": "Open to curious and collaborative individuals; no specific degree or major required",
+            "stipend": "$300,000 base salary",
+            "deadline": "Not specified",
+            "duration": "May-August",
+            "apply_link": "https://www.janestreet.com/join-jane-street/apply/8617344002/",
+            "source": "Jane Street"
+        },
+        {
+            "title": "Quantitative Researcher Internship, May-August",
+            "company": "Jane Street",
+            "location": "New York",
+            "remote": false,
+            "skills": [
+                "Logical and mathematical thinking",
+                "Intellectual curiosity",
+                "Strong programming skills in Python",
+                "Open-minded thinking",
+                "Precise communication"
+            ],
+            "eligibility": "Current undergraduate or graduate students; recent graduates also welcome",
+            "stipend": "$300,000 base salary",
+            "deadline": "Not specified",
+            "duration": "May-August",
+            "apply_link": "https://www.janestreet.com/join-jane-street/apply/8498547002/",
+            "source": "Jane Street"
+        },
+        {
+            "title": "Machine Learning Engineer Internship, May-August",
+            "company": "Jane Street",
+            "location": "New York",
+            "remote": false,
+            "skills": [
+                "Practical ML experience (training models, ML libraries, ML workflows)",
+                "Top-notch programming skills",
+                "Intellectual curiosity",
+                "Collaborative spirit",
+                "Problem solving"
+            ],
+            "eligibility": "Undergraduate or PhD student",
+            "stipend": "$300,000 base salary",
+            "deadline": "Not specified",
+            "duration": "May-August",
+            "apply_link": "https://www.janestreet.com/join-jane-street/apply/8611307002/",
+            "source": "Jane Street"
+        },
+        {
+            "title": "Machine Learning Researcher Internship, May-August",
+            "company": "Jane Street",
+            "location": "New York",
+            "remote": false,
+            "skills": [
+                "Practical ML experience",
+                "Logical and mathematical thinking",
+                "Fluency with ML models and techniques",
+                "Python and ML frameworks",
+                "Rapid implementation and iteration"
+            ],
+            "eligibility": "Undergraduate, PhD student, or postdoc",
+            "stipend": "$300,000 base salary",
+            "deadline": "Not specified",
+            "duration": "May-August",
+            "apply_link": "https://www.janestreet.com/join-jane-street/apply/8384490002/",
+            "source": "Jane Street"
+        },
+        {
+            "title": "Software Engineer Internship, May-August",
+            "company": "Jane Street",
+            "location": "New York",
+            "remote": false,
+            "skills": [
+                "Top-notch programming",
+                "OCaml (primary language)",
+                "Python (project-dependent)",
+                "Intellectual curiosity",
+                "Collaborative and humble"
+            ],
+            "eligibility": "Undergraduate or graduate students; curious and collaborative",
+            "stipend": "$300,000 base salary",
+            "deadline": "Not specified",
+            "duration": "May-August",
+            "apply_link": "https://www.janestreet.com/join-jane-street/apply/8599644002/",
+            "source": "Jane Street"
+        },
+        {
+            "title": "Cybersecurity Engineer Internship, May-August",
+            "company": "Jane Street",
+            "location": "New York",
+            "remote": false,
+            "skills": [
+                "Strong programming",
+                "Interest in cybersecurity (CTFs, home labbing)",
+                "Threat modeling",
+                "Security trade-off communication",
+                "Adaptability"
+            ],
+            "eligibility": "Currently majoring or planning to major in computer science or similar field",
+            "stipend": "$300,000 base salary",
+            "deadline": "Not specified",
+            "duration": "May-August",
+            "apply_link": "https://www.janestreet.com/join-jane-street/apply/8632723002/",
+            "source": "Jane Street"
+        },
+        {
+            "title": "Data Engineer Internship, May-August",
+            "company": "Jane Street",
+            "location": "New York",
+            "remote": false,
+            "skills": [
+                "Python",
+                "SQL",
+                "OCaml",
+                "Open-source and proprietary tools",
+                "Structured and unstructured data manipulation",
+                "Analytical thinking"
+            ],
+            "eligibility": "Smart, inquisitive people; no specific background required; comfortable with Python, SQL, R or similar",
+            "stipend": "$250,000 base salary",
+            "deadline": "Not specified",
+            "duration": "May-August",
+            "apply_link": "https://www.janestreet.com/join-jane-street/apply/8631973002/",
+            "source": "Jane Street"
+        }
+    ]
+}
